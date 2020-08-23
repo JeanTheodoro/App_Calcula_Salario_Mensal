@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SalarioMes</string>
+    <string name="title_value_hour">"Valor da Hora "</string>
+    <string name="show_salary">"Salário Bruto: "</string>
+    <string name="show_money">R$: 0.0</string>
+    <string name="show_iss">"Desc: ISS "</string>
+    <string name="show_fgts">Desc FGTS:</string>
+    <string name="show_salry_liq">"Salário Líquido: "</string>
+    <string name="title_value_day_worked">Qdn de Dias Trabalhadas</string>
+    <string name="title_value_hour_day">Qdd Hora Dias</string>
+    <string name="title_button">Calcular</string>
+</resources>
