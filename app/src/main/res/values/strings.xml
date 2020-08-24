@@ -3,10 +3,13 @@
     <string name="title_value_hour">"Valor da Hora "</string>
     <string name="show_salary">"Salário Bruto: "</string>
     <string name="show_money">R$: 0.0</string>
-    <string name="show_iss">"Desc: ISS "</string>
+    <string name="show_iss">"Desc: INSS "</string>
     <string name="show_fgts">Desc FGTS:</string>
     <string name="show_salry_liq">"Salário Líquido: "</string>
     <string name="title_value_day_worked">Qdn de Dias Trabalhadas</string>
     <string name="title_value_hour_day">Qdd Hora Dias</string>
     <string name="title_button">Calcular</string>
+    <string name="message_erro">Informe os campos corretamente</string>
+    <string name="message_erro_calculo">"O cáculo não pode ser realizado "</string>
+    <string name="title_button_reset">RESET</string>
 </resources>
