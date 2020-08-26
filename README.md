@@ -1,6 +1,6 @@
 # 💻 App Cálcula Salário Mensal
 
-O App reliza o cálculo do salário líquido, atravês do valor da hora aula, quentidade de dias trabalhados
+O App realiza o cálculo do salário líquido, atravês do valor da hora aula, quentidade de dias trabalhados
 e a hora de trbalho diária.
 
 Para a relização dos descontos considerou-se 8% para o FGTS e para a contribuição
